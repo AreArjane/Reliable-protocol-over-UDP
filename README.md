@@ -84,3 +84,15 @@ python3 application.py -c -i 127.0.0.1 -p 8088 -f received_file.txt -w 5
 ## Conclusion
 
 This application demonstrates reliable data transfer over UDP using a custom protocol with sequence and acknowledgment tracking. It includes features for establishing connections, transferring data with a sliding window, and testing packet loss handling.
+
+---
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request with tests and documentation.
+
+---
+
+## License
+
+MIT License © 2025
